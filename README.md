@@ -1,1 +1,1 @@
-# problemas_classicos_CC
+# Problemas Clássicos de Ciência da Computação com GO
