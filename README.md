@@ -1,1 +1,1 @@
-# Problemas Clássicos de Ciência da Computação com Python
+# Problemas Clássicos de Ciência da Computação com GO
